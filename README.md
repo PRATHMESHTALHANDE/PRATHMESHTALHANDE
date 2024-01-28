@@ -1,4 +1,4 @@
-![logo](https://github.com/PRATHMESHTALHANDE/PRATHMESHTALHANDE/blob/main/BiG%20data%20analyst.pdf)
+![logo](https://github.com/PRATHMESHTALHANDE/PRATHMESHTALHANDE/blob/main/BiG%20data%20analyst_page-0001.jpg)
 <h1 align="center">Hi 👋, I'm Prathmesh Babasaheb Talhande</h1>
 <h3 align="center">I am Big Data Analytics student pursuing master's degree at Adani Institute of Digital Technology Management.</h3>
 
