@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Babasaheb Talhande</h1>
 <h3 align="center">I am Big Data Analytics student pursuing master's degree at Adani Institute of Digital Technology Management.</h3>
 
-<img align="right" alt="analyst" width="400" src"https://i.pinimg.com/564x/5e/c3/2a/5ec32a085d8965167c2029893b33e880.jpg">
+<img align="right" alt="analyst" width="400" src"https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshtalhande&label=Profile%20views&color=0e75b6&style=flat" alt="prathmeshtalhande" /> </p>
 
