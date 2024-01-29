@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/PRATHMESHTALHANDE](https://github.com/PRATHMESHTALHANDE)
 
-- 📝 I regularly write articles on Medium [https://medium.com/@prathmesh.talhande](https://medium.com/@prathmesh.talhande)
+- 📝 I write articles on Medium [https://medium.com/@prathmesh.talhande](https://medium.com/@prathmesh.talhande)
 
 - 📫 Email Id **prathmeshtalhande.bda23@aidtm.ac.in**
 
