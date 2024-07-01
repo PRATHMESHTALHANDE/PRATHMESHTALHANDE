@@ -1,4 +1,4 @@
-![logo](https://github.com/PRATHMESHTALHANDE/PRATHMESHTALHANDE/blob/main/BiG%20data%20analyst_page-0001.jpg)
+![logo](https://github.com/PRATHMESHTALHANDE/PRATHMESHTALHANDE/blob/main/Prathmesh.jpg)
 <h1 align="center">Hi 👋, I'm Prathmesh Babasaheb Talhande</h1>
 <h3 align="center">I am Big Data Analytics student pursuing master's degree at Adani Institute of Digital Technology Management.</h3>
 
@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshtalhande" alt="prathmeshtalhande" /></a> </p>
 
-- 🔭 I’m currently studying at **Adani Institute of Digital Technology Management**
+- 🔭![image](https://github.com/PRATHMESHTALHANDE/PRATHMESHTALHANDE/assets/147124556/30af6a79-da13-473a-ab91-0cca18ba45f8)
+ I’m currently studying at **Adani Institute of Digital Technology Management**
 
 - 🌱 I’m currently learning **Python , SQL, PowerBI**
 
