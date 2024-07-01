@@ -9,8 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshtalhande" alt="prathmeshtalhande" /></a> </p>
 
-- 🔭![image](https://github.com/PRATHMESHTALHANDE/PRATHMESHTALHANDE/assets/147124556/30af6a79-da13-473a-ab91-0cca18ba45f8)
- I’m currently studying at **Adani Institute of Digital Technology Management**
+- 🔭 I’m currently studying at **Adani Institute of Digital Technology Management**
 
 - 🌱 I’m currently learning **Python , SQL, PowerBI**
 
